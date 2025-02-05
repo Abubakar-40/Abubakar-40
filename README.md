@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakar-40&show_icons=true&locale=en" alt="abubakar-40" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-40&" alt="abubakar-40" /></p>
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abubakar-2a4014263)
