@@ -27,5 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-40&" alt="abubakar-40" /></p>
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abubakar-2a4014263)
+
